@@ -1,0 +1,71 @@
+#+TITLE: Piscines: Quick presentation
+#+SUBTITLE: Summary:
+#+VERSION: 1.2
+
+* Chapter I — Piscine
+
+What is a piscine?
+
+Much like the selection piscine, this project is split into many small projects
+(modules), with each day introducing a new concept related to the language,
+paradigm, or technology you have chosen to work on. Validating a piscine requires
+more than just a day or two of investment. To ensure that this piscine is
+completed correctly, it is recommended that you take note of everything listed
+below:
+
+- You cannot validate the piscine if you work only on one or two projects.
+- Try to submit your work every day: even if something is not finished, it is
+  better to attempt a submission.
+- At least a week's worth of work: taking on the piscine should not be taken
+  lightly.
+- Each initialized repository will be automatically closed after one day.
+- You have two days to complete the required peer evaluations in each module.
+- It is possible to retry your modules without waiting.
+
+#+begin_quote
+It is important not to work on these modules alone. For this reason, it is
+*highly* recommended to approach these piscines with several students.
+#+end_quote
+
+* Chapter II — Preamble
+
+Here is what Wikipedia has to say about Python:
+
+Python is a genus of constricting snakes in the Pythonidae family, native to the
+tropics and subtropics of the Eastern Hemisphere.
+
+The name /Python/ was proposed by François Marie Daudin in 1803 for non-venomous,
+flecked snakes. Currently, 10 python species are recognized as valid taxa.
+
+Three formerly considered python subspecies have been promoted, and a new species
+has been recognized.
+
+However, this is not the type of Python we will discuss in the rest of this
+module.
+
+We will explore the Python programming language, a high-level, object-oriented
+language that is widely used in data science due to its extensive collection of
+libraries, which can be highly beneficial in this field.
+
+* Chapter III — Instructions
+
+To validate this piscine, you must complete the following projects:
+
+- Python - 0 - Starting
+- Python - 1 - Array
+- Python - 2 - DataTable
+- Python - 3 - OOP
+- Python - 4 - Dod
+
+You must complete each project in this order. Indeed, it will not be possible to
+register for a project if the previous project is not validated.
+
+#+begin_quote
+You must be registered for this project.
+#+end_quote
+
+#+begin_quote
+It is important to refer to this document to access your projects. You can click
+on each module on this page to access it, or use the list of available projects
+in your intra.
+#+end_quote
