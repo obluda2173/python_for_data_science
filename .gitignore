@@ -1,0 +1,23 @@
+# system files
+.DS_Store
+
+# IDE junk
+.vscode/
+
+# latex
+*.aux
+*.log
+*.out
+*.toc
+*.tex
+
+# problem set PDFs (keep local only)
+*.pdf
+
+# personal
+_archive/
+
+# temporary
+python-2-datatable.org
+python-3-oop.org
+python-4-dod.org
