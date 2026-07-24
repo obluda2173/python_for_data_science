@@ -2,6 +2,7 @@ import sys
 
 
 def count(text):
+    """Counts and prints the number of different character types in a string"""
     ul = ll = pm = sp = dg = 0
     for c in text:
         if c.isupper():
@@ -23,6 +24,7 @@ def count(text):
 
 
 def main():
+    """Reads input from command-line args or standard input & calls count()"""
     args = sys.argv[1:]
     assert len(args) <= 1, "more than one argument provided"
     if not args or not args[0]:
