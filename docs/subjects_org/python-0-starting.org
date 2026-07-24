@@ -158,11 +158,11 @@ $>
 
 * Chapter V — Exercise 03
 
-| Exercise 03                       |
-| Exercice 03: NULL not found       |
-| Turn-in directory: ex03/          |
+| Exercise 03                         |
+| Exercice 03: NULL not found         |
+| Turn-in directory: ex03/            |
 | Files to turn in: NULL_not_found.py |
-| Allowed functions: None           |
+| Allowed functions: None             |
 
 Write a function that prints the object type of all types of "Null".
 Return 0 if it goes well and 1 in case of error.
@@ -221,10 +221,10 @@ $>
 
 * Chapter VI — Exercise 04
 
-| Exercise 04                        |
-| Exercice 04: The Even and the Odd   |
-| Turn-in directory: ex04/           |
-| Files to turn in: whatis.py        |
+| Exercise 04                                                                 |
+| Exercice 04: The Even and the Odd                                           |
+| Turn-in directory: ex04/                                                    |
+| Files to turn in: whatis.py                                                 |
 | Allowed functions: sys or any other library that allows to receive the args |
 
 Create a script that takes a number as an argument, checks whether it is odd or
