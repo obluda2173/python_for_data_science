@@ -277,10 +277,10 @@ $>
 
 * Chapter VIII — Exercise 05
 
-| Exercise 05                                   |
-| Exercice 05: First standalone program python  |
-| Turn-in directory: ex05/                      |
-| Files to turn in: building.py                 |
+| Exercise 05                                                                 |
+| Exercice 05: First standalone program python                                |
+| Turn-in directory: ex05/                                                    |
+| Files to turn in: building.py                                               |
 | Allowed functions: sys or any other library that allows to receive the args |
 
 This time you have to make a real autonomous program, with a main, which takes a
