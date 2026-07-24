@@ -75,11 +75,12 @@ $>
 
 * Chapter III — Exercise 01
 
-| Exercise 01                                                                     |
-| Exercice 01: First use of package                                               |
-| Turn-in directory: ex01/                                                        |
-| Files to turn in: format_ft_time.py                                             |
+| Exercise 01                                                                            |
+| Exercice 01: First use of package                                                      |
+| Turn-in directory: ex01/                                                               |
+| Files to turn in: format_ft_time.py                                                    |
 | Allowed functions: time, datetime or any other library that allows to receive the date |
+|                                                                                        |
 
 Write a script that formats the dates this way. Of course, your date will not be
 the same as mine, as in the example, but it must be formatted in the same way.
