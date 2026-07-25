@@ -388,10 +388,10 @@ $>
 
 * Chapter X — Exercise 07
 
-| Exercise 07                   |
-| Exercice 07: Dictionaries SoS |
-| Turn-in directory: ex07/      |
-| Files to turn in: sos.py      |
+| Exercise 07                                                                 |
+| Exercice 07: Dictionaries SoS                                               |
+| Turn-in directory: ex07/                                                    |
+| Files to turn in: sos.py                                                    |
 | Allowed functions: sys or any other library that allows to receive the args |
 
 Make a program that takes a string as an argument and encodes it into Morse Code.
@@ -459,7 +459,7 @@ version)
 #+begin_example
 $> python tester.py
 100%|[===============================================================>]| 333/333
-100%|                                          | 333/333 [00:01<00:00, 191.61it/s]
+100%|                                                                  | 333/333 [00:01<00:00, 191.61it/s]
 #+end_example
 
 #+begin_quote
@@ -468,10 +468,10 @@ You can use =get_terminal_size= to adapt to the size of your terminal.
 
 * Chapter XII — Exercise 09
 
-| Exercise 09                                     |
-| Exercice 09: My first package creation          |
-| Turn-in directory: ex09/                        |
-| Files to turn in: *.py, *.txt, *.toml, README.md, LICENSE |
+| Exercise 09                                                 |
+| Exercice 09: My first package creation                      |
+| Turn-in directory: ex09/                                    |
+| Files to turn in: *.py, *.txt, *.toml, README.md, LICENSE   |
 | Allowed functions: PyPI or any library for creation package |
 
 Create your first package in python the way you want, it will appear in the list of
