@@ -56,10 +56,10 @@
 
 * Chapter III — Exercise 00
 
-| Exercise 00                                              |
-| Exercice 00: Give my BMI                                 |
-| Turn-in directory : ex00/                                |
-| Files to turn in : give_bmi.py                           |
+| Exercise 00                                                |
+| Exercice 00: Give my BMI                                   |
+| Turn-in directory : ex00/                                  |
+| Files to turn in : give_bmi.py                             |
 | Allowed functions : numpy or any lib of table manipulation |
 
 Your function, give_bmi, take 2 lists of integers or floats in input and returns a
@@ -104,10 +104,10 @@ $>
 
 * Chapter IV — Exercise 01
 
-| Exercise 01                                              |
-| Exercice 01: 2D array                                    |
-| Turn-in directory : ex01/                                |
-| Files to turn in : array2D.py                            |
+| Exercise 01                                                |
+| Exercice 01: 2D array                                      |
+| Turn-in directory : ex01/                                  |
+| Files to turn in : array2D.py                              |
 | Allowed functions : numpy or any lib of table manipulation |
 
 Write a function that takes as parameters a 2D array, prints its shape, and returns
@@ -151,10 +151,10 @@ $>
 
 * Chapter V — Exercise 02
 
-| Exercise 02                                                    |
-| Exercice 02: load my image                                     |
-| Turn-in directory : ex02/                                      |
-| Files to turn in : load_image.py                               |
+| Exercise 02                                                         |
+| Exercice 02: load my image                                          |
+| Turn-in directory : ex02/                                           |
+| Files to turn in : load_image.py                                    |
 | Allowed functions : all libs for load images and table manipulation |
 
 You need to write a function that loads an image, prints its format, and its pixels
@@ -194,10 +194,10 @@ $>
 
 * Chapter VI — Exercise 03
 
-| Exercise 03                                                    |
-| Exercice 03: zoom on me                                        |
-| Turn-in directory : ex03/                                      |
-| Files to turn in : load_image.py, zoom.py                      |
+| Exercise 03                                                                             |
+| Exercice 03: zoom on me                                                                 |
+| Turn-in directory : ex03/                                                               |
+| Files to turn in : load_image.py, zoom.py                                               |
 | Allowed functions : all libs for load, manipulate, display image and table manipulation |
 
 Create a program that should load the image "animal.jpeg", print some information
@@ -246,10 +246,10 @@ Your array after slicing and the zoom area may be different.
 
 * Chapter VII — Exercise 04
 
-| Exercise 04                                                    |
-| Exercice 04: rotate me                                         |
-| Turn-in directory : ex04/                                      |
-| Files to turn in : load_image.py, rotate.py                    |
+| Exercise 04                                                                             |
+| Exercice 04: rotate me                                                                  |
+| Turn-in directory : ex04/                                                               |
+| Files to turn in : load_image.py, rotate.py                                             |
 | Allowed functions : all libs for load, manipulate, display image and table manipulation |
 
 Make a program which must load the image "animal.jpeg", cut a square part from it
@@ -292,10 +292,10 @@ Expected output:
 
 * Chapter VIII — Exercise 05
 
-| Exercise 05                                                    |
-| Exercice 05: Pimp my image                                     |
-| Turn-in directory : ex05/                                      |
-| Files to turn in : load_image.py, pimp_image.py                |
+| Exercise 05                                                                             |
+| Exercice 05: Pimp my image                                                              |
+| Turn-in directory : ex05/                                                               |
+| Files to turn in : load_image.py, pimp_image.py                                         |
 | Allowed functions : all libs for load, manipulate, display image and table manipulation |
 
 You need to develop 5 functions capable of applying a variety of color filters to
