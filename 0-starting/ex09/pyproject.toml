@@ -1,23 +1,23 @@
 [build-system]
-requires = ["setuptools>=77.0"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "ft_package"
 version = "0.0.1"
 authors = [
-        { name="eagle", email="eagle@42.fr" },
+  {name = "erian"},
+  {email = "erian@student.42vienna.com"},
 ]
 description = "A sample test package"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = []
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
+license = { text = "MIT" }
 
 [project.urls]
-Homepage = "https://github.com/eagle/ft_package"
+Homepage = "https://github.com/obluda2173/python_for_data_science/tree/main/0-starting/ex09/ft_package"
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["ft_package*"]
+# [tool.setuptools.packages.find]
+# where = ["."]
+# include = ["ft_package*"]
