@@ -1,0 +1,19 @@
+#+TITLE: Python Piscine - Data Science
+
+Practice repository for the 42 School Python for Data Science piscine (Advanced Curriculum project). Working through the modules to learn the language; nothing here is meant to be reused or shown off.
+
+* Modules
+
+- =python-0-starting/=  — basics: types, functions, argv, filter/lambda, morse, tqdm, packaging
+- =python-1-array/=     — numpy arrays, slicing, image load/zoom/rotate/filters
+- =python-2-datatable/= — pandas: load CSV, plot life expectancy / population / GDP
+- =python-3-oop/=       — classes, inheritance, abstract classes, operator overloading (GOT theme)
+- =python-4-dod/=       — closures, decorators, dataclasses
+
+Do them in order; each module unlocks the next.
+
+* Notes
+
+- Python 3.10.
+- flake8 for the norm.
+- Subject PDFs converted to org and stored in [[file:./docs/subjects_org][./docs/subjects_org/]].
