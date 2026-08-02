@@ -10,8 +10,6 @@ Practice repository for the 42 School Python for Data Science piscine (Advanced 
 - =python-3-oop/=       — classes, inheritance, abstract classes, operator overloading (GOT theme)
 - =python-4-dod/=       — closures, decorators, dataclasses
 
-Do them in order; each module unlocks the next.
-
 * Notes
 
 - Python 3.10.
